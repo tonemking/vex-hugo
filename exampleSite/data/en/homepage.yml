@@ -3,10 +3,10 @@ banner:
   enable : true
   title : "Be what you want to be"
   content : "Designs are extremely limited. Once sold there will never be another one like it!"
-  image : "images/watch.png"
+  image : "images/Teddy_B1S1.jpg"
   button:
    enable : true
-   label : "Browse All Products"
+   label : "Secure your Design"
    link : "products"
 
 ############################# Feature ############################
