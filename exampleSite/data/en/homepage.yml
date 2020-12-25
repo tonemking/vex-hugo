@@ -17,9 +17,9 @@ banner:
 
 
 #################################### Products ########################
-products:
-  enable : true
-  title : "Previous TeddyBearBird Families"
+#products:
+  #enable : true
+  #title : "Previous TeddyBearBird Families"
 
 
 ################################## Subscription ###################
