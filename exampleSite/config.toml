@@ -1,6 +1,6 @@
 ################################### Default Configuration ############################
-baseurl = "http://examplesite.com/"
-title = "Vex | hugo landing page template"
+baseurl = "https://teddybearbird.com/"
+title = "TeddyBearBird Designs"
 theme = "vex-hugo"
 # post excert
 summarylength = "20"
