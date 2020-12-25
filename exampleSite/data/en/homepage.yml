@@ -2,8 +2,7 @@
 banner:
   enable : true
   title : "Teddy 1.1.0-beta"
-  content : "Designs are extremely limited. Once sold there will never be another one like it! Each shirt will be tagged
-             with its season and batch numbers"
+  content : "Designs are extremely limited. Once sold there will never be another one like it! Each shirt will be tagged with its season and batch numbers"
   image : "images/Teddy_B1S1.jpg"
   button:
    enable : true
