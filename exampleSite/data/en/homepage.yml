@@ -1,13 +1,13 @@
 ############################# banner ############################
 banner:
   enable : true
-  title : "Be what you want to be"
-  content : "Designs are extremely limited. Once sold there will never be another one like it!"
-  content : "Batch 1 Season 1 for Orginal Teddy. Only 50 Left!"
+  title : "Teddy Season 1 ? Batch 1"
+  content : "Designs are extremely limited. Once sold there will never be another one like it! Each shirt will be tagged
+             with its season and batch numbers"
   image : "images/Teddy_B1S1.jpg"
   button:
    enable : true
-   label : "Secure Teddy B1S1"
+   label : "Preorder"
    link : "products"
 
 ############################# Feature ############################
