@@ -3,7 +3,7 @@ banner:
   enable : true
   title : "Teddy 1.1.0-beta"
   content : "Designs are extremely limited. Once sold there will never be another one like it! Each shirt will be tagged with its season and batch numbers"
-  image : "images/Teddy_B1S1.jpg"
+  image : "images/teddy1.1.0-beta.jpg"
   button:
    enable : true
    label : "Preorder"
@@ -25,8 +25,8 @@ products:
 ################################## Subscription ###################
 subscription:
   enable : true
-  bg_image : "images/call-to-action.jpg"
-  title : "Get Product Updates"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
+  bg_image : "images/teddy1.1.0-beta.jpg"
+  title : "Get Updates for New Drops"
+  content : "We will release a new design every few months!"
   placeholder : "Your Email Address Here"
 
