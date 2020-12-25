@@ -1,7 +1,7 @@
 ############################# banner ############################
 banner:
   enable : true
-  title : "Teddy Season 1 ? Batch 1"
+  title : "Teddy 1.1.0-beta<br>"
   content : "Designs are extremely limited. Once sold there will never be another one like it! Each shirt will be tagged
              with its season and batch numbers"
   image : "images/Teddy_B1S1.jpg"
@@ -11,6 +11,7 @@ banner:
    link : "products"
 
 ############################# Feature ############################
+'''
 features:
   enable : true
   title : "Our Core Features"
@@ -90,7 +91,7 @@ about_product:
         label : "Check Features"
         link : "#"
 
-
+'''
 #################################### Products ########################
 products:
   enable : true
@@ -105,7 +106,7 @@ subscription:
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
   placeholder : "Your Email Address Here"
 
-
+'''
 ############################## Testimonial ##########################
 testimonial:
   enable : true
@@ -128,3 +129,4 @@ testimonial:
       designation : "CEO, Themefisher"
       image : "images/avater.png"
       content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+'''
