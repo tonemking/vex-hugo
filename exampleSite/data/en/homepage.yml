@@ -1,7 +1,7 @@
 ############################# banner ############################
 banner:
   enable : true
-  title : "Teddy 1.1.0-beta"
+  title : "teddy 1.1.0-beta"
   content : "Designs are extremely limited. Once sold there will never be another one like it! Each shirt will be tagged with its season, batch number and release candidate."
   image : "images/teddy1.1.0-beta.jpg"
   button:
